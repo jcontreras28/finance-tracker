@@ -1,1 +1,5 @@
 This is the finance tracker app from the Complete Ruby on Rails Developer course.
+
+The app can be viewed at:
+
+https://finance-tracker-janelle.herokuapp.com/users/sign_in
